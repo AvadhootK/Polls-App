@@ -1,0 +1,23 @@
+div{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    background:linear-gradient(45deg, rgb(97, 3, 105),rgb(229, 87, 241)) no-repeat;
+}
+h2{
+    color: white;
+    padding-left: 20px;
+}
+li{
+    color: white;
+    margin-top: 5px;
+    font-size: 16px;
+}
+a{
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(229, 87, 241);
+}

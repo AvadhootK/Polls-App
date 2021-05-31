@@ -1,0 +1,24 @@
+li a{
+    color:rgb(75, 0, 0);
+    text-decoration: none;
+}
+li a:last-child{
+    color: white;
+}
+li a:hover{
+    color: rgb(229, 87, 241);
+}
+li{
+    margin-top: 10px;
+    color: white;
+}
+h1{
+    color: white;
+    padding-left: 20px;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    background:linear-gradient(45deg, rgb(97, 3, 105),rgb(229, 87, 241)) no-repeat;
+}

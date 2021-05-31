@@ -1,0 +1,24 @@
+div{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    background:linear-gradient(45deg, rgb(97, 3, 105),rgb(229, 87, 241)) no-repeat;
+}
+h2{
+    color: white;
+    padding-left: 20px;
+}
+p{
+    padding-left: 20px;
+}
+label{
+    color: white;
+}
+#btn{
+    margin-top: 15px;
+    padding:3px 15px;
+
+}
+form{
+    padding-left: 20px;
+}
